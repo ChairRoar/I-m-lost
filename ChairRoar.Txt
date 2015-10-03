@@ -2,10 +2,10 @@ class ForLoop {
   public static void main(String[] args) {
     int c;
  
-    for (c = 1; c <= 5; c++) {
+    for (c = 1; c <= 9; c++) {
      
 
-      if (c < 5){
+      if (c < 9){
       	System.out.println("Hello World");	
       	Else
       	{
