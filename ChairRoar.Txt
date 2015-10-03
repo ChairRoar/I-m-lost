@@ -4,6 +4,10 @@ class ForLoop {
  
     for (c = 1; c <= 10; c++) {
       System.out.println("Hello World");
+
+      if (c=5){
+      	System.out.println("Printed 5 times");
+      }
     }
   }
 }
