@@ -9,7 +9,7 @@ class ForLoop {
       	System.out.println("Hello World");	
       	Else
       	{
-      	System.out.println("Endededed");
+      	System.out.println("Finito");
       	}
       }
     }
